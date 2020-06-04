@@ -44,6 +44,8 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
 - [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
+- [direnv](https://github.com/direnv/direnv) - Loads environment variables per directory and unclutters your .profile.
 
 ### Articles, tutorials, guides
 
